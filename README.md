@@ -46,8 +46,9 @@ This project analyzes the performance of VGG16 CNN for image classification on b
 - Explore explainable AI techniques
 
 ## 📎 Files
-- `notebook.ipynb` → Implementation
-- `presentation.pdf` → Project slides
+- `main.py` → Clean implementation
+- `notebook.ipynb` → Experimental workflow and results
+- `presentation.pdf` → Project presentation
 
 ## 🛠️ Requirements
 See `requirements.txt`
